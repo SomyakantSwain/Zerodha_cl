@@ -11,14 +11,14 @@ import Navbar from '../Navbar'
 function HomePage() {
   return (
     <>
-    <Navbar />
+   
       <Hero />
       <Awwards />
       <Stats />
       <Pricing />
       <Education />
       <OpenAccount />
-      <Footer />
+      
     </>
   )
 }

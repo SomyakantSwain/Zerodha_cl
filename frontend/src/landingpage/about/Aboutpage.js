@@ -7,10 +7,10 @@ import Footer from '../Footer'
 function Aboutpage() {
   return (
     <>
-      <Navbar />
+     
       <Hero />
       <Team />
-      <Footer />
+      
     </>
   )
 }
