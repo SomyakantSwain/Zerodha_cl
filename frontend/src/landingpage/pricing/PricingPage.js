@@ -13,7 +13,7 @@ function PricingPage() {
       <Hero />
       <Brokerage />
       <Pricing />
-      <OpenAccount />
+    
      
     </>
   )
